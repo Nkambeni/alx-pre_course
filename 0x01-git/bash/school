@@ -1,2 +1,4 @@
 #!/bin/bash >> bash/school
 echo echo ALX
+#/bin/bash >> bash/school
+echo echo school
