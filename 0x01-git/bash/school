@@ -2,3 +2,5 @@
 echo echo ALX
 #/bin/bash >> bash/school
 echo echo school
+#!/bin/bash
+echo ALX 
